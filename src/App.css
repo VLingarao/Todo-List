@@ -1,0 +1,44 @@
+*{
+  background-color: rgb(228, 195, 200);
+}
+.App {
+  text-align: center;
+}
+
+.list{
+  list-style: none; 
+  color: rgb(15, 73, 181);
+}
+.button{
+  margin-left: 20px;
+  outline: none;
+  border: none;
+  background-color: green;
+  border-radius: 12px;
+  color: white;
+  padding: 13px;
+  width: 3rem;
+}
+.input{
+  border: none;
+  outline: none;
+  background-color: white;
+  padding: 13px;
+  width: 15rem;
+  font-size: 15px;
+  border-radius: 12px;
+  color: red;
+}
+.maininput{
+  margin-top: 2rem;
+}
+.removebtn{
+  /* margin-left: 20px; */
+  outline: none;
+  border: none;
+  background-color: red;
+  border-radius: 12px;
+  color: white;
+  padding: 13px;
+  /* width: 3rem; */
+}
